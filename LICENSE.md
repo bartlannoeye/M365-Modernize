@@ -1,6 +1,8 @@
 
 The MIT License (MIT)
 
+Copyright (c) Microsoft Corporation. All rights reserved.
+
 Copyright (c) 2019 Bart Lannoeye
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
